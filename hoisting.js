@@ -15,7 +15,7 @@ function crazy() {
   thisIsCrazy();
 
    function thisIsCrazy  (){
-    console.log("hey!!!")
+    console.log("hey!!!");
   }
 }
 
@@ -25,10 +25,9 @@ function sayMyName() {
   var name = "Cricky";
 
   
-
-  function sayMy(myName) {
-    
-    console.log function "Kristen";
+var myName = "Kristin";
+  function sayMy() {
+    console.log function myName;
     
   }
 }
