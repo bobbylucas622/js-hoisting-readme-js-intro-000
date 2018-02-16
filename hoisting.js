@@ -24,10 +24,11 @@ function sayMyName() {
   sayMyName(name);
   var name = "Cricky";
 
-  sayMy();
+  
 
   function sayMy() {
     console.log(name);
     var name = "Kristin";
+    
   }
 }
